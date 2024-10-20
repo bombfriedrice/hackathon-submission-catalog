@@ -1,1 +1,12 @@
-
+name: Momentum  # required
+tagline: NBA Momentum turns NBA Top Shot moments into strategic gameplay. # optional
+showcaseUrl: https://github.com/bombfriedrice/momentum # required
+sourceCodeUrl: https://github.com/bombfriedrice/momentum # required
+liveDemoUrl: https://demo.site/  # optional
+social: # optional
+  x: rj3000x
+  github: bombfriedrice
+team: NBA Momentum
+  -
+    name: rj moscardon
+    github: bombfriedrice
