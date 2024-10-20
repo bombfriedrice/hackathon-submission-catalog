@@ -1,12 +1,12 @@
-name: ProjectName  # required
-tagline: Project Tagline # optional
-showcaseUrl: https://website.domain/project/path  # required
-sourceCodeUrl: https://github.com/userOrOrg/projectName # required
+name: Momentum  # required
+tagline: NBA Momentum turns NBA Top Shot moments into strategic gameplay. # optional
+showcaseUrl: https://github.com/bombfriedrice/momentum # required
+sourceCodeUrl: https://github.com/bombfriedrice/momentum # required
 liveDemoUrl: https://demo.site/  # optional
 social: # optional
-  x: handle
-  github: name
-team: # optional
+  x: rj3000x
+  github: bombfriedrice
+team: NBA Momentum
   -
-    name: Member 1
-    github: username1
+    name: rj moscardon
+    github: bombfriedrice
